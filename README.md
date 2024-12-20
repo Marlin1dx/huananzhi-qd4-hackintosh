@@ -1,4 +1,4 @@
-# HUANANZHI X99 QD4 + Intel® Xeon® E5-2690 v4 + AMD Radeon™ RX 5700 + Fenvi T919
+# HUANANZHI X99 QD4 + Intel® Xeon® E5-2690 v4 + AMD Radeon™ RX 5700
 
 
 <div align="center">
