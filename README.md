@@ -19,9 +19,9 @@
 
 ## Complete hardware specs
 
-- Motherboard Name:	Huananzhi X99-QD4 | Motherboard Chipset:	Intel Lynx Point - B85, Intel Haswell-EP
-- CPU Type: 14-Core Intel® Xeon® E5-2690 v4, 2600-3200 MHz (23 x 99)
-- Memory: 2 X 16 GB DDR4-3200 Reg. ECC DDR4 SDRAM
+- Motherboard Name:	Huananzhi X99-QD4 | Motherboard Chipset:	Intel Lynx Point - B85, Intel Brosdwell-EP
+- CPU Type: 14-Core Intel® Xeon® E5-2690 v4, 2600-3200 MHz
+- Memory: 2 X 16 GB DDR4-2400 Reg. ECC DDR4 SDRAM
 - Video Adapter: AMD Radeon™ RX 5700  (8176 MB)
 - Audio Adapter: Realtek ALC887 @ Intel Lynx Point PCH - High Definition Audio Controller
 - Ethernet Adapter: Realtek PCIe GbE Family Controller
@@ -54,7 +54,7 @@
 - [x] VirtualSMC.kext
 - [x] WhateverGreen.kext
 
-## How does it works (if you have the same hardware): @ThalesM1
+## How does it works (if you have the same hardware):
   0. Config the BIOS, expecs bellow
   1. Get the EFI
   2. Config the SMBIOS, generating one with genSMBIOS, then edit it using properTree: ROM, SystemUUID, MLB, system serial number
